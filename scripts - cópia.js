@@ -1,5 +1,6 @@
 const object = {
     name: 'sally',
-	idade: 20
+	idade: 20,
+    signo: "cancer"
 };
 
